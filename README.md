@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🌱 I am an introvert who loves puzzle games and games.<br>🔭 I am currently looking for a backend software developer job.<br>🤔 I have experience developing a system in national servers, AWS, and GCP environments.<br>⚡ My strongest language is python but I have experience in go, java, c#.
+🌱 I am an introvert who loves puzzle games and games.<br>🔭 I am currently looking for a backend software developer job.<br>🤔 I have experience developing a system in national servers, AWS, and GCP environments.<br>⚡ My strongest language is python but I have experience in go, java, c#, c.
 
 
 ## 🌐 Socials:
